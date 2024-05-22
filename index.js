@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["OsTeam™ Studio","Powerd By Osli"];
 
 
 let currentIndex = 0;
