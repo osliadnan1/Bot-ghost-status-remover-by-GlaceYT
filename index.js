@@ -19,7 +19,7 @@
   });
   
   
-  const statusMessages = ["OsTeam™ Studio","Powerd By Osli"];
+  const statusMessages = ["Cyber | Store","Powerd By Osli"];
   
   
   let currentIndex = 0;
